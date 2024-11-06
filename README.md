@@ -50,6 +50,10 @@ Download following (saved in GitHub) to CPX drive for fully functioning SonarLum
   > adafruit_pixelbuf.mpy
   > neopixel.mpy
 
+Make sure to update the CPX drive before you upload the libraries to ensure it works! 
+To do this: 
+save >adafruit-circuitplayground-circuitplayground_express-en_US-9.14.uf2 to Bootloader drive. 
+
 
 ## Project Status
 Project is:  _complete/no longer_being_worked_on_because_it_is_complete.
